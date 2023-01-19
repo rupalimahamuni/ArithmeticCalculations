@@ -6,7 +6,6 @@ public class Subtraction {
 		
 		int a = 8;
 		int b = 19;
-		int c = a-b;
-		System.out.println(c);
+		System.out.println(a-b);
 	}
 }
